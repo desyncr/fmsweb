@@ -1,8 +1,8 @@
 # FMSweb - web frontend for jFMS
 
-![](screenshot.png)
-
 Very early prototype. Only for testing.
+
+![](screenshot.png)
 
 # Running
 
